@@ -12,6 +12,8 @@ Bootstrap's grid system uses for the layout.
 The layout is completely responsive because of using Bootstrap's responsive breakpoints, that makes a user-friendly landing  for devices with different screen format.
 A drop-down menu is provided for mobile devices, that is activated by click on the burger menu icon in the header.
 
+You can see the demo version of the project just by following this link: https://nels0nmuntz.github.io/tajem-landing-page/ .
+
 ## Download and installation
 To begin using this template, clone the repo `git clone https://github.com/Nels0nMuntz/tajem-landing-page.git` or donwload on GitHab.
 
