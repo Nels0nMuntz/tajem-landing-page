@@ -13,7 +13,7 @@ The layout is completely responsive because of using Bootstrap's responsive brea
 A drop-down menu is provided for mobile devices, that is activated by click on the burger menu icon in the header.
 
 ## Download and installation
-To begin using this template, clone the repo `git clone https://github.com/Nels0nMuntz/tajem-test.git` or donwload on GitHab.
+To begin using this template, clone the repo `git clone https://github.com/Nels0nMuntz/tajem-landing-page.git` or donwload on GitHab.
 
 Verify Local Environment Installation Run the following command from the root folder of the cloned project to install all dependencies.
 
